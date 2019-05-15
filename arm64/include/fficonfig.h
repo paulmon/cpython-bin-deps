@@ -75,7 +75,7 @@
 /* #undef HAVE_LONG_DOUBLE_VARIANT */
 
 /* Define to 1 if you have the `memcpy' function. */
-/* #undef HAVE_MEMCPY */
+#define HAVE_MEMCPY 1
 
 /* Define to 1 if you have the <memory.h> header file. */
 #define HAVE_MEMORY_H 1
